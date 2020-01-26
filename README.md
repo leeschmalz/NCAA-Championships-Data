@@ -11,7 +11,7 @@ This was a very tedious project, as you can see the txt file was not easy to wor
 system was built with a whole lot of iteration. 
 
 Things that cause errors in the code that need prior edit in the txt file:
-1. Wrestlers sharing the same name or having subsets of a name. ex. 'Vincezo Joseph' and 'Joseph Smith' both in 165 bracket.
+1. Wrestlers sharing the same name or having subsets of each others' names. ex. 'Vincezo Joseph' and 'Joseph Smith' both in 165 bracket.
   fix: add a letter to one of the names and remove it in the final csv doc
 2. Wrestlers with multiple last names ex. "Requir van der Merwe" 
   fix: concatenate in txt file --> 'vanderMerwe'
