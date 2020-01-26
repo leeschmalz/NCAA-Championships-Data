@@ -1,6 +1,8 @@
 # NCAA-Championships-Data
 These python files were used to create a dataframe that contains every result from the 2019 NCAA Wrestling Championships per wrestler.
 
+Fair warning, the code is ugly, confusing, with no comments explaining anything because it was a solo mission.
+
 This was an important project for me because I have a passion for wrestling and a passion for data, but as far as I know this key information
 is not available to the public anywhere online. Now it is (for 2019 at least). I will probably extend this to other years in the future.
 
