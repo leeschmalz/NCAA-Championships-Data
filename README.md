@@ -10,7 +10,7 @@ The final results that contain all of the data are in the csv files starting wit
 auxillary that were necessary to lead to the final result.
 
 This was a very tedious project, as you can see the txt file was not easy to work with. The entire structure of the bracket and scoring
-system was built with a whole lot of iteration. 
+system were built with a whole lot of iteration. 
 
 Things that cause errors in the code that need prior edit in the txt file:
 1. Wrestlers sharing the same name or having subsets of each others' names. ex. 'Vincenzo Joseph' and 'Joseph Smith' both in 165 bracket.
