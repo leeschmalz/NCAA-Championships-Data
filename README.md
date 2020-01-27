@@ -6,7 +6,7 @@ Fair warning, the code is ugly, confusing, with no comments explaining anything 
 This was an important project for me because I have a passion for wrestling and a passion for data, but as far as I know this key information
 is not available to the public anywhere online. Now it is (for 2019 Championships at least). I will probably extend this to other years in the future.
 
-The final results that contain all of the data are in the csv files starting with the word 'all' ex. 'all_125_scored_df'. The rest of the csv files are simply
+The final results that contain all of the data are in the csv files starting with the word 'All' ex. 'All_125_scored_df'. The rest of the csv files are simply
 auxillary that were necessary to lead to the final result.
 
 This was a very tedious project, as you can see the txt file was not easy to work with. The entire structure of the bracket and scoring
