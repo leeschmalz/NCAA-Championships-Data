@@ -19,4 +19,4 @@ Things that cause errors in the code that need prior edit in the txt file:
   fix: concatenate in txt file --> 'Requir vanderMerwe'
 3. Wrestlers from Maryland, because their school code is 'MD' while 'MD' stands for major decision in the rest of the doc
   fix: change 'MD' to 'MDU' when it is in parentheses (this could be added to the program, but it frankly wasn't an issue)
-  Note: This issue only occured one time because Maryland is bad at wrestling. Nice job Youssif Hemida.
+  Note: This issue only occured one time because Maryland is bad at wrestling and only qualified one wrestler. Nice job Youssif Hemida.
